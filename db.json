@@ -1,0 +1,57 @@
+{
+  "products": [
+      {
+        "id":1,
+        "name":"Guitar",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibanez.com%2Fusa%2Fproducts%2Fcategory%2Felectric_guitars%2F&psig=AOvVaw09cYnqYiG4jDliLgFM7OAx&ust=1611569734186000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDGo6artO4CFQAAAAAdAAAAABAJ",
+        "price":5000
+      },
+      {
+        "id":2,
+        "name":"Tanpura",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appannie.com%2Fen%2Fapps%2Fgoogle-play%2Fapp%2Fcom.genius.sitarpro%2F&psig=AOvVaw2jOlhGo3EvTyqoU0womsbK&ust=1611570991468000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDD4PyvtO4CFQAAAAAdAAAAABAD",
+        "price":5500
+      },
+      {
+        "id":3,
+        "name":"Ukulele",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fappadvice.com%2Fapp%2Fmy-first-step-for-hawaiian-ukulele%2F617820786&psig=AOvVaw2XZCNNA_eU-d5mfowxsfL_&ust=1611570749452000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNisrYmvtO4CFQAAAAAdAAAAABAD",
+        "price":6500
+      },
+      {
+        "id":4,
+        "name":"Drums",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl":"https://chrome.google.com/webstore/detail/drums-hd-wallpapers-music/eodnaljdbcnjjdjlhdgcpfcabfjmldlh",
+        "price":7000
+      },
+      {
+        "id":5,
+        "name":"Piano",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidfreeware.net%2Fdownload-batalsoft-piano-solo-hd.html&psig=AOvVaw0mosetm9yOM-k13skPpq0r&ust=1611570690689000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCRwOmutO4CFQAAAAAdAAAAABAD",
+        "price":84000
+      }
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
